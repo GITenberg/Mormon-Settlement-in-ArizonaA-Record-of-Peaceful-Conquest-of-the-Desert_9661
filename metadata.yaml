@@ -1,0 +1,28 @@
+_repo: Mormon-Settlement-in-ArizonaA-Record-of-Peaceful-Conquest-of-the-Desert_9661
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McClintock, James H.
+    birthdate: 1864
+    deathdate: 1934
+    gutenberg_agent_id: '3123'
+    url: http://www.gutenberg.org/2009/agents/3123
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mormons -- Arizona -- History'
+- !lcc 'F786'
+- !lcsh 'Arizona -- History -- To 1950'
+- GITenberg
+title: 'Mormon Settlement in Arizona
+
+  A Record of Peaceful Conquest of the Desert'
+url: http://www.gutenberg.org/ebooks/9661
